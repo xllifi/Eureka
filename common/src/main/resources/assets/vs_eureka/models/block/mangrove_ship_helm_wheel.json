@@ -1,0 +1,7 @@
+{
+	"parent": "vs_eureka:block/template_ship_helm_wheel",
+	"textures": {
+		"main": "vs_eureka:block/mangrove_ship_helm",
+		"particle": "minecraft:block/mangrove_planks"
+	}
+  }
